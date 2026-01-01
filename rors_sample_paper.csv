@@ -1,0 +1,694 @@
+Paper Title,title,authors,school_names,affiliation_countries,published_year,ack_section_presence,funding_entities,funding_specificity
+"Secure Randomness, Consensus, and Threshold Signatures. Eleftherios Kokoris-Kogias†","{
+  ""title"": ""Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.""
+}","{
+  ""authors"": ""Eleftherios Kokoris-Kogias, Dahlia Malkhi, Alexander Spiegelman""
+}","{
+  ""school_names"": [
+    ""Facebook Novi"",
+    ""IST Austria""
+  ]
+}","{
+  ""affiliation_countries"": [""Austria""],
+  ""research_geography_category"": [""Non_US_only""]
+}","{
+  ""year"": ""2020""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGEMENTS\"" section appears near the end of the paper, immediately before the References section.""
+}","{
+  ""funding_agencies"": [],
+  ""award_or_contract_identifiers"": [],
+  ""support_type_mentions"": []
+}","{
+  ""funding_disclosure_specificity"": ""None"",
+  ""evidence_snippet"": """"
+}"
+CapSpeaker: Injecting Voices to Microphones via Capacitors Xiaoyu Ji,"{
+  ""title"": ""CapSpeaker: Injecting Voices to Microphones via Capacitors""
+}","{
+  ""authors"": ""Xiaoyu Ji, Juchuan Zhang, Shui Jiang, Jishen Li, Wenyuan Xu""
+}","{
+  ""school_names"": [
+    ""USSLab, Zhejiang University"",
+    ""Zhejiang University""
+  ]
+}","{
+  ""affiliation_countries"": [""China""],
+  ""research_geography_category"": [""Non_US_only""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An 'ACKNOWLEDGMENTS' section appears near the end of the paper (Section 9) and includes a funding statement: 'This work is supported by China NSFC Grant 62071428, 61925109, and 61941120.'""
+}","{
+  ""funding_agencies"": [""China NSFC (National Natural Science Foundation of China)""],
+  ""award_or_contract_identifiers"": [""62071428"", ""61925109"", ""61941120""],
+  ""support_type_mentions"": [""This work is supported by China NSFC Grant 62071428, 61925109, and 61941120.""]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work is supported by China NSFC Grant 62071428, 61925109, and 61941120.”""
+}"
+Charting the Atack Surface of Trigger-Action IoT Platforms Qi,"{
+  ""title"": ""Charting the Attack Surface of Trigger-Action IoT Platforms""
+}","{
+  ""authors"": ""Qi Wang, Pubali Datta, Wei Yang, Si Liu, Adam Bates, Carl A. Gunter""
+}","{
+  ""school_names"": [
+    ""University of Illinois at Urbana-Champaign"",
+    ""The University of Texas at Dallas""
+  ]
+}","{
+  ""affiliation_countries"": [""USA""],
+  ""research_geography_category"": [""US_only""]
+}","{
+  ""year"": ""2019""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGEMENTS\"" section appears near the end of the paper (just before the References) and includes funding/support information (NSF grants).""
+}","{
+  ""funding_agencies"": [""National Science Foundation (NSF)""],
+  ""award_or_contract_identifiers"": [""NSF CNS 13-30491"", ""NSF CNS 17-50024"", ""NSF CNS 16-57534""],
+  ""support_type_mentions"": [""supported in part by NSF grants""]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""ACKNOWLEDGEMENTS\nThis work was supported in part by NSF CNS 13-30491, NSF CNS 17-50024, and NSF CNS 16-57534.""
+}"
+DeMiCPU: Device Fingerprinting with Magnetic Signals Radiated by CPU,"{
+  ""title"": ""DeMiCPU: Device Fingerprinting with Magnetic Signals Radiated by CPU""
+}","{
+  ""authors"": ""Yushi Cheng, Xiaoyu Ji, Juchuan Zhang, Wenyuan Xu, Yi-Chao Chen""
+}","{
+  ""school_names"": [
+    ""Zhejiang University"",
+    ""University of Texas at Austin""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2019""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An 'ACKNOWLEDGMENTS' section appears near the end of the paper (after Conclusion/Future Work) and includes funding/support information (NSFC grant, ZJNSF grant, and Fundamental Research Funds for the Central Universities).""
+}","{
+  ""funding_agencies"": [
+    ""China NSFC (National Natural Science Foundation of China)"",
+    ""ZJNSF (Zhejiang Natural Science Foundation)"",
+    ""Fundamental Research Funds for the Central Universities""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""61702451"",
+    ""LGG19F020020"",
+    ""2019QNA4027""
+  ],
+  ""support_type_mentions"": [
+    ""This work is supported by China NSFC Grant 61702451, ZJNSF Grant LGG19F020020, and the Fundamental Research Funds for the Central Universities 2019QNA4027.""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work is supported by China NSFC Grant 61702451, ZJNSF Grant LGG19F020020, and the Fundamental Research Funds for the Central Universities 2019QNA4027.”""
+}"
+EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices,"{
+  ""title"": ""EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices""
+}","{
+  ""authors"": ""Cong Wu, Jing Chen, Kun He, Ziming Zhao, Ruiying Du, Chen Zhang""
+}","{
+  ""school_names"": [
+    ""Wuhan University"",
+    ""University at Buffalo""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2022""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after the Conclusion) and includes funding/support details (grants and programs).""
+}","{
+  ""funding_agencies"": [
+    ""National Key R&D Program of China"",
+    ""Fundamental Research Funds for the Central Universities"",
+    ""National Natural Science Foundation of China""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""2021YFB2700200"",
+    ""2042022kf1195"",
+    ""2042022kf0046"",
+    ""U1836202"",
+    ""62076187"",
+    ""62172303""
+  ],
+  ""support_type_mentions"": [
+    ""supported in part""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This research of Wuhan University was supported in part by the National Key R&D Program of China under grant No. 2021YFB2700200, the Fundamental Research Funds for the Central Universities under grants No.2042022kf1195,2042022kf0046, and the National Natural Science Foundation of China under grants No. U1836202, 62076187, 62172303.”""
+}"
+ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels,"{
+  ""title"": ""ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels""
+}","{
+  ""authors"": ""Muhui Jiang, Lin Ma, Yajin Zhou, Qiang Liu, Cen Zhang, Zhi Wang, Xiapu Luo, Lei Wu, Kui Ren""
+}","{
+  ""school_names"": [
+    ""The Hong Kong Polytechnic University"",
+    ""Zhejiang University"",
+    ""Nanyang Technological University"",
+    ""Florida State University""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""Singapore"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENT""],
+  ""notes"": ""An 'ACKNOWLEDGEMENT' section appears near the end of the paper (just before the References) and includes funding/support details.""
+}","{
+  ""funding_agencies"": [
+    ""National Natural Science Foundation of China"",
+    ""Fundamental Research Funds for the Central Universities (Zhejiang University NGICS Platform)"",
+    ""Leading Innovative and Entrepreneur Team Introduction Program of Zhejiang"",
+    ""Hong Kong Research Grants Council (HKRGC)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""Grant No. 61872438"",
+    ""ZJUNGICS2021016"",
+    ""K20200019"",
+    ""No. 2018R01005"",
+    ""No. PolyU152239/18E""
+  ],
+  ""support_type_mentions"": [
+    ""partially supported""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work was partially supported by the National Natural Science Foundation of China (Grant No.61872438), the Fundamental Research Funds for the Central Universities (Zhejiang University NGICS Platform ZJUNGICS2021016, K20200019), Leading Innovative and Entrepreneur Team Introduction Program of Zhejiang (No. 2018R01005), HKRGC Project (No. PolyU152239/18E).”""
+}"
+FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice Assistants,"{
+  ""title"": ""FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice Assistants""
+}","{
+  ""authors"": ""Yanjiao Chen, Yijie Bai, Richard Mitev, Kaibo Wang, Ahmad-Reza Sadeghi, Wenyuan Xu""
+}","{
+  ""school_names"": [
+    ""Zhejiang University"",
+    ""Technical University of Darmstadt""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""Germany""],
+  ""research_geography_category"": [""International_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""Acknowledgement""],
+  ""notes"": ""An \""Acknowledgement\"" section appears near the end of the paper (Section 8) and includes explicit funding information (China NSFC grants, DFG CRC1119 CROSSING, Intel Private AI Center).""
+}","{
+  ""funding_agencies"": [
+    ""China National Natural Science Foundation (NSFC)"",
+    ""German Research Foundation (DFG)"",
+    ""Intel Private AI Center""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""NSFC Grant 61925109"",
+    ""NSFC Grant 61941120"",
+    ""DFG CRC1119 CROSSING (S2 and P3)""
+  ],
+  ""support_type_mentions"": [
+    ""funded in part""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work is funded in part by China NSFC Grant 61925109 and 61941120, as well as the German Research Foundation (DFG) within CRC1119 CROSSING (S2 and P3) and the Intel Private AI Center.”""
+}"
+"FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on","{
+  ""title"": ""FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems""
+}","{
+  ""authors"": ""Jiangyi Deng, Yanjiao Chen, Wenyuan Xu""
+}","{
+  ""school_names"": [
+    ""Zhejiang University""
+  ]
+}","{
+  ""affiliation_countries"": [""China""],
+  ""research_geography_category"": [""Non_US_only""]
+}","{
+  ""year"": ""2022""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after the Conclusion) and includes a funding statement: \""This work is supported by China NSFC Grant 61925109.\""""
+}","{
+  ""funding_agencies"": [""China NSFC (National Natural Science Foundation of China)""],
+  ""award_or_contract_identifiers"": [""61925109""],
+  ""support_type_mentions"": [""This work is supported by China NSFC Grant 61925109.""]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""This work is supported by China NSFC Grant 61925109.""
+}"
+Go/t_ta Catch ’Em All:Using Honeypots to CatchAdversarial A/t_tac,"{
+  ""title"": ""Gotta Catch ’Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks""
+}","{
+  ""authors"": ""Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao""
+}","{
+  ""school_names"": [
+    ""University of Chicago"",
+    ""UIUC""
+  ]
+}","{
+  ""affiliation_countries"": [""USA""],
+  ""research_geography_category"": [""US_only""]
+}","{
+  ""year"": ""2020""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after the Conclusion) and includes explicit funding/support information (NSF grants and DARPA GARD program).""
+}","{
+  ""funding_agencies"": [
+    ""National Science Foundation (NSF)"",
+    ""Defense Advanced Research Projects Agency (DARPA)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""CNS-1949650"",
+    ""CNS-1923778"",
+    ""CNS-1705042""
+  ],
+  ""support_type_mentions"": [
+    ""supported in part by NSF grants"",
+    ""supported in part by the DARPA GARD program""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work is supported in part by NSF grants CNS-1949650, CNS-1923778, CNS-1705042, and by the DARPA GARD program.”""
+}"
+Locating the Security Patches for Disclosed OSS Vulnerabilities with Vulnerability-Commit Correlation Ranking,"{
+  ""title"": ""Locating the Security Patches for Disclosed OSS Vulnerabilities with Vulnerability-Commit Correlation Ranking""
+}","{
+  ""authors"": ""Xin Tan, Yuan Zhang, Chenyuan Mi, Jiajun Cao, Kun Sun, Yifan Lin, Min Yang""
+}","{
+  ""school_names"": [
+    ""Fudan University"",
+    ""George Mason University""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENT""],
+  ""notes"": ""An 'ACKNOWLEDGEMENT' section appears near the end of the paper (after the Conclusion) and includes funding/support details (e.g., National Natural Science Foundation of China, Natural Science Foundation of Shanghai, Shanghai Rising-Star Program, U.S. ARMY grant).""
+}","{
+  ""funding_agencies"": [
+    ""National Natural Science Foundation of China"",
+    ""Natural Science Foundation of Shanghai"",
+    ""Shanghai Rising-Star Program"",
+    ""U.S. ARMY""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""U1836213"",
+    ""U1836210"",
+    ""U1736208"",
+    ""61972099"",
+    ""62172105"",
+    ""19ZR1404800"",
+    ""21QA1400700"",
+    ""W56KGU-20-C-0008""
+  ],
+  ""support_type_mentions"": [
+    ""supported in part by"",
+    ""supported by""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work was supported in part by the National Natural Science Foundation of China (U1836213, U1836210, U1736208, 61972099, 62172105), Natural Science Foundation of Shanghai (19ZR1404800). Yuan Zhang was supported in part by the Shanghai Rising-Star Program under Grant 21QA1400700. Kun Sun was supported by U.S. ARMY under Grant W56KGU-20-C-0008.”""
+}"
+QuantumHammer: A Practical Hybrid Attack on the LUOV Signature Scheme,"{
+  ""title"": ""QuantumHammer: A Practical Hybrid Attack on the LUOV Signature Scheme""
+}","{
+  ""authors"": ""Koksal Mus, Saad Islam, Berk Sunar""
+}","{
+  ""school_names"": [
+    ""Worcester Polytechnic Institute"",
+    ""Istanbul Aydin University""
+  ]
+}","{
+  ""affiliation_countries"": [""USA"", ""Turkey""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2020""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (just before the References) and includes funding/support statements (Fulbright Program and NSF grant CNS-1814406).""
+}","{
+  ""funding_agencies"": [
+    ""U.S. Department of State, Bureau of Educational and Cultural Affairs (Fulbright Program)"",
+    ""National Science Foundation""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""CNS-1814406""
+  ],
+  ""support_type_mentions"": [
+    ""supported by"",
+    ""Fulbright Program support"",
+    ""NSF grant support""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work is supported by U.S. Department of State, Bureau of Educational and Cultural Affair’s Fulbright Program and by the National Science Foundation under grant CNS-1814406.”""
+}"
+SmashEx: Smashing SGX Enclaves Using Exceptions Jinhua Cui∗,"{
+  ""title"": ""SmashEx: Smashing SGX Enclaves Using Exceptions""
+}","{
+  ""authors"": ""Jinhua Cui, Jason Zhijingcheng Yu, Shweta Shinde, Prateek Saxena, Zhiping Cai""
+}","{
+  ""school_names"": [
+    ""National University of Defense Technology"",
+    ""National University of Singapore"",
+    ""ETH Zürich""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""Singapore"", ""Switzerland""],
+  ""research_geography_category"": [""International_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after \""AVAILABILITY\""), and it includes funding/support statements.""
+}","{
+  ""funding_agencies"": [
+    ""Crystal Center at National University of Singapore"",
+    ""National Natural Science Foundation of China""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""62072465""
+  ],
+  ""support_type_mentions"": [
+    ""supported by Crystal Center at National University of Singapore"",
+    ""funded by National Natural Science Foundation of China""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work was supported by Crystal Center at National University of Singapore. Zhiping Cai’s work was funded by National Natural Science Foundation of China (62072465).”""
+}"
+Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels,"{
+  ""title"": ""Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels""
+}","{
+  ""authors"": ""Hang Zhang, Weiteng Chen, Yu Hao, Guoren Li, Yizhuo Zhai, Xiaochen Zou, Zhiyun Qian""
+}","{
+  ""school_names"": [
+    ""UC Riverside"",
+    ""Georgia Tech""
+  ]
+}","{
+  ""affiliation_countries"": [""USA""],
+  ""research_geography_category"": [""US_only""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after Conclusion). It includes a funding statement: \""This work is partially supported by NSF grant #1652954.\""""
+}","{
+  ""funding_agencies"": [""National Science Foundation (NSF)""],
+  ""award_or_contract_identifiers"": [""1652954""],
+  ""support_type_mentions"": [""partially supported""]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""This work is partially supported by NSF grant #1652954.""
+}"
+TokenScope: Automatically Detecting Inconsistent Behaviors of Cryptocurrency Tokens in Ethereum,"{
+  ""title"": ""TokenScope: Automatically Detecting Inconsistent Behaviors of Cryptocurrency Tokens in Ethereum""
+}","{
+  ""authors"": ""Ting Chen, Yufei Zhang, Zihao Li, Xiapu Luo, Ting Wang, Rong Cao, Xiuzhuo Xiao, Xiaosong Zhang""
+}","{
+  ""school_names"": [
+    ""University of Electronic Science and Technology of China (UESTC)"",
+    ""The Hong Kong Polytechnic University"",
+    ""Pennsylvania State University""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""Hong Kong"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2019""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENT""],
+  ""notes"": ""An 'ACKNOWLEDGEMENT' section appears near the end of the paper (just before the References) and includes funding/support statements (e.g., National Natural Science Foundation of China, National Key R&D Program of China, and U.S. NSF grants).""
+}","{
+  ""funding_agencies"": [
+    ""National Natural Science Foundation of China"",
+    ""National Key R&D Program of China"",
+    ""National Science Foundation (NSF)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""61872057"",
+    ""2018YFB0804100"",
+    ""1718787"",
+    ""1846151""
+  ],
+  ""support_type_mentions"": [
+    ""partially supported""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“Ting Chen is partially supported by National Natural Science Foundation of China (61872057) and National Key R&D Program of China (2018YFB0804100). Ting Wang is partially supported by the National Science Foundation under Grant No. 1718787 and 1846151.”""
+}"
+Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization,"{
+  ""title"": ""Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization""
+}","{
+  ""authors"": ""Wenna Song, Jiang Ming, Lin Jiang, Yi Xiang, Xuanchen Pan, Jianming Fu, Guojun Peng""
+}","{
+  ""school_names"": [
+    ""School of Cyber Science and Engineering, Wuhan University"",
+    ""Key Laboratory of Aerospace Information Security and Trusted Computing, Ministry of Education"",
+    ""University of Texas at Arlington"",
+    ""Wuhan Antiy Information Technology Co.,Ltd""
+  ]
+}","{
+  ""affiliation_countries"": [""China"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after Conclusion) and includes explicit funding/support statements (NSFC grants and NSF grants).""
+}","{
+  ""funding_agencies"": [
+    ""National Natural Science Foundation of China"",
+    ""National Science Foundation (NSF)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""62172308"",
+    ""U1626107"",
+    ""61972297"",
+    ""62172144"",
+    ""CNS-1850434"",
+    ""CNS-2128703""
+  ],
+  ""support_type_mentions"": [
+    ""supported in part by"",
+    ""supported under grant""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""This research was supported in part by the National Natural Science Foundation of China (62172308, U1626107, 61972297, 62172144), and Jiang was supported by the National Science Foundation(NSF) under grant CNS-1850434 and CNS-2128703.""
+}"
+TrustOre: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA,"{
+  ""title"": ""TrustOre: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA""
+}","{
+  ""authors"": ""Hyunyoung Oh, Adil Ahmad, Seonghyun Park, Byoungyoung Lee, Yunheung Paek""
+}","{
+  ""school_names"": [
+    ""Seoul National University"",
+    ""Purdue University""
+  ]
+}","{
+  ""affiliation_countries"": [""South Korea"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2020""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGMENTS\"" section appears near the end of the paper (after the Conclusion) and includes multiple funding/support statements and grant numbers.""
+}","{
+  ""funding_agencies"": [
+    ""BK21Plus program (Creative Research Engineer Development for IT), Seoul National University"",
+    ""IC Design Education Center (IDEC)"",
+    ""National Research Foundation of Korea (NRF)"",
+    ""Korea government (MSIT; Ministry of Science and ICT)"",
+    ""Institute of Information & communications Technology Planning & Evaluation (IITP)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""NRF-2017R1A2A1A17069478"",
+    ""NRF-2019R1C1C1006095"",
+    ""No.2018-0-00230"",
+    ""No.2017-0-00213"",
+    ""No.2020-0-00325""
+  ],
+  ""support_type_mentions"": [
+    ""partly supported"",
+    ""grant funded by MSIT"",
+    ""EDA tool support"",
+    ""TrusThingz Project""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work was partly supported by the BK21Plus program of the Creative Research Engineer Development for IT, Seoul National University in 2020 … and the National Research Foundation of Korea grant funded by the Korea government (MSIT) (NRF-2017R1A2A1A17069478, NRF-2019R1C1C1006095) and Institute of Information & communications Technology Planning & Evaluation grant funded by MSIT (No.2018-0-00230 … and No.2017-0-00213 … and No.2020-0-00325 …).”""
+}"
+Watch Out for Race Condition Attacks When Using Android External Storage,"{
+  ""title"": ""Watch Out for Race Condition Attacks When Using Android External Storage""
+}","{
+  ""authors"": ""Shaoyong Du, Xin Liu, Guoqing Lai, Xiangyang Luo""
+}","{
+  ""school_names"": [
+    ""State Key Laboratory of Mathematical Engineering and Advanced Computing""
+  ]
+}","{
+  ""affiliation_countries"": [""China""],
+  ""research_geography_category"": [""Non_US_only""]
+}","{
+  ""year"": ""2022""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An 'ACKNOWLEDGMENTS' section appears near the end of the paper (after the Conclusion) and includes explicit funding/support information (e.g., National Natural Science Foundation of China and other grants).""
+}","{
+  ""funding_agencies"": [
+    ""National Natural Science Foundation of China"",
+    ""State Key Laboratory of Information Security"",
+    ""Zhongyuan Science and Technology Innovation Leading Talent Project"",
+    ""Henan Key Laboratory of Cyberspace Situation Awareness""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""No. 62002386"",
+    ""U1804263"",
+    ""62172435"",
+    ""No. 2021-ZD-05"",
+    ""No. 214200510019""
+  ],
+  ""support_type_mentions"": [
+    ""partially supported""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This work was partially supported by the National Natural Science Foundation of China (No. 62002386, U1804263, 62172435), the State Key Laboratory of Information Security (No. 2021-ZD-05), the Zhongyuan Science and Technology Innovation Leading Talent Project (No.214200510019), and the Henan Key Laboratory of Cyberspace Situation Awareness.”""
+}"
+When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure,"{
+  ""title"": ""When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure""
+}","{
+  ""authors"": ""Yue Zhang, Zhiqiang Lin""
+}","{
+  ""school_names"": [
+    ""The Ohio State University""
+  ]
+}","{
+  ""affiliation_countries"": [""USA""],
+  ""research_geography_category"": [""US_only""]
+}","{
+  ""year"": ""2022""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENTS""],
+  ""notes"": ""An 'ACKNOWLEDGEMENTS' section appears near the end of the paper (after the Conclusion) and includes a funding statement: 'This research was partially supported by NSF award 2112471.'""
+}","{
+  ""funding_agencies"": [""National Science Foundation (NSF)""],
+  ""award_or_contract_identifiers"": [""2112471""],
+  ""support_type_mentions"": [""partially supported""]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This research was partially supported by NSF award 2112471.”""
+}"
+When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on,"{
+  ""title"": ""When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on Automatic Speech Recognition""
+}","{
+  ""authors"": ""Shu Wang, Jiahao Cao, Xu He, Kun Sun, Qi Li""
+}","{
+  ""school_names"": [
+    ""George Mason University"",
+    ""Tsinghua University"",
+    ""BNRist""
+  ]
+}","{
+  ""affiliation_countries"": [""USA"", ""China""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2020""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGMENTS""],
+  ""notes"": ""An 'ACKNOWLEDGMENTS' section appears near the end of the paper (just before the References) and includes grant/funding support information.""
+}","{
+  ""funding_agencies"": [
+    ""U.S. Army Research Office (ARO)"",
+    ""U.S. Office of Naval Research (ONR)"",
+    ""National Natural Science Foundation of China (NSFC)""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""W911NF-17-1-0447"",
+    ""N00014-18-2893"",
+    ""N00014-16-1-3214"",
+    ""U1736209"",
+    ""61572278""
+  ],
+  ""support_type_mentions"": [
+    ""partially supported by grants""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""This work is partially supported by the U.S. ARO grant W911NF-17-1-0447, U.S. ONR grants N00014-18-2893 and N00014-16-1-3214, and the NSFC grants U1736209 and 61572278.""
+}"
+You Make Me Tremble: A First Look at Attacks Against Structural Contr,"{
+  ""title"": ""You Make Me Tremble: A First Look at Attacks Against Structural Control Systems""
+}","{
+  ""authors"": ""Abel Zambrano, Alejandro Palacio-Betancur, Luis Burbano, Andres Felipe Niño, Luis Felipe Giraldo, Mariantonieta Gutierrez Soto, Jairo Giraldo, Alvaro A. Cardenas""
+}","{
+  ""school_names"": [
+    ""Universidad de Los Andes"",
+    ""The Pennsylvania State University"",
+    ""University of Utah"",
+    ""University of California, Santa Cruz""
+  ]
+}","{
+  ""affiliation_countries"": [""Colombia"", ""USA""],
+  ""research_geography_category"": [""US_international_collaboration""]
+}","{
+  ""year"": ""2021""
+}","{
+  ""ack_or_funding_section_present"": true,
+  ""section_headings_found"": [""ACKNOWLEDGEMENTS""],
+  ""notes"": ""An \""ACKNOWLEDGEMENTS\"" section appears near the end of the paper (after the Conclusions). It includes funding/support statements (NSF grants and Air Force Research Laboratory agreement).""
+}","{
+  ""funding_agencies"": [
+    ""National Science Foundation"",
+    ""Air Force Research Laboratory""
+  ],
+  ""award_or_contract_identifiers"": [
+    ""NSF CNS-1929410"",
+    ""NSF 1929406"",
+    ""NSF 1931573"",
+    ""FA8750-19-2-0010""
+  ],
+  ""support_type_mentions"": [
+    ""research sponsored by NSF"",
+    ""research sponsored by the Air Force Research Laboratory under an agreement number""
+  ]
+}","{
+  ""funding_disclosure_specificity"": ""High"",
+  ""evidence_snippet"": ""“This material is based on research sponsored by NSF CNS-1929410, 1929406, 1931573, and by the Air Force Research Laboratory under agreement number FA8750-19-2-0010.”""
+}"

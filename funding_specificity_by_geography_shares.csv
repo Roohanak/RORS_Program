@@ -1,0 +1,5 @@
+Geography,High,Medium,Low
+US_only,0.75,0.25,0
+Non_US_only,0.75,0,0.25
+US_international_collaboration,0.25,0.75,0
+International_collaboration,1,0,0
