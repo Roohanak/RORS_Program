@@ -1,0 +1,411 @@
+[
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "A1": 0.86,
+    "A2": 0.72,
+    "A_final": 0.79,
+    "status": "FLAGGED",
+    "top_reason": "High affiliation variability (name collision candidate)",
+    "signals": [
+      "High affiliation variability",
+      "Multiple countries observed",
+      "High cluster ambiguity (entropy)"
+    ],
+    "metrics": {
+      "num_docs": 4,
+      "num_distinct_affiliations": 4,
+      "num_distinct_countries": 4,
+      "num_email_domains": 4,
+      "name_collision_candidates": 3
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_001",
+      "summary": "This case was triaged for human review due to cross-document inconsistencies that may indicate a name-collision (multiple individuals sharing the same name string). The system observed: High affiliation variability, Multiple countries observed, High cluster ambiguity (entropy). All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Same name string appears across distinct institutions and countries (see E01101, E01102, E01103, E01104)",
+        "- Multiple countries observed across documents (see E01101, E01102, E01103, E01104)",
+        "- Potential entity-resolution ambiguity: multiple candidate clusters for the same name (see E01105)"
+      ],
+      "uncertainty": "High",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01101",
+        "E01102",
+        "E01103",
+        "E01104",
+        "E01105"
+      ]
+    },
+    "docs": [
+      "D010",
+      "D002",
+      "D009",
+      "D005"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_009",
+    "name_string": "Luke Warm",
+    "A1": 0.74,
+    "A2": 0.66,
+    "A_final": 0.70,
+    "status": "ATTENTION",
+    "top_reason": "Email domain mismatch across header vs other fields (metadata outlier)",
+    "signals": [
+      "Email domain mismatch",
+      "Metadata outlier"
+    ],
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 2,
+      "num_distinct_countries": 2,
+      "num_email_domains": 2,
+      "name_collision_candidates": 3
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_009",
+      "summary": "This case requires attention due to metadata outliers suggesting inconsistent contact identifiers (email domain mismatch). The cues may indicate formatting differences, extraction errors, or an identity-resolution mismatch. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Email domain differs across documents for the same name string (see E01106, E01107)",
+        "- Cross-document metadata patterns are atypical for this profile (see E01108)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01106",
+        "E01107",
+        "E01108"
+      ]
+    },
+    "docs": [
+      "D004",
+      "D008"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_010",
+    "name_string": "Luke Warm",
+    "A1": 0.41,
+    "A2": 0.45,
+    "A_final": 0.43,
+    "status": "NORMAL",
+    "top_reason": "Possible name collision, but internal fields are consistent within this cluster",
+    "signals": [
+      "Name collision candidate (low risk cluster)",
+      "Internally consistent metadata"
+    ],
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 1,
+      "name_collision_candidates": 3
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_010",
+      "summary": "This record appears internally consistent and likely represents a single stable cluster for the name string. However, other clusters with the same name exist in the corpus, so continued monitoring is appropriate. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Stable affiliation and country across documents for this cluster (see E01109, E01110)"
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01109",
+        "E01110"
+      ]
+    },
+    "docs": [
+      "D006",
+      "D003"
+    ]
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_002",
+    "name_string": "Jane Smith",
+    "A1": 0.11,
+    "A2": 0.31,
+    "A_final": 0.22,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 4,
+      "num_distinct_affiliations": 4,
+      "num_distinct_countries": 3,
+      "num_email_domains": 4
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_002",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00802)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01001",
+        "E00802",
+        "E00503",
+        "E00604"
+      ]
+    },
+    "docs": [
+      "D010",
+      "D008",
+      "D005",
+      "D006"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_003",
+    "name_string": "Wei Zhang",
+    "A1": 0.89,
+    "A2": 0.84,
+    "A_final": 0.86,
+    "status": "FLAGGED",
+    "top_reason": "High affiliation variability",
+    "signals": [
+      "High affiliation variability",
+      "Multiple countries observed",
+      "High cluster ambiguity (entropy)"
+    ],
+    "metrics": {
+      "num_docs": 5,
+      "num_distinct_affiliations": 5,
+      "num_distinct_countries": 4,
+      "num_email_domains": 5
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_003",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: High affiliation variability, Multiple countries observed, High cluster ambiguity (entropy). All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- High affiliation variability (see E00202)",
+        "- Multiple countries observed (see E00404)",
+        "- High cluster ambiguity (entropy) (see E00705)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E00801",
+        "E00202",
+        "E00303",
+        "E00404",
+        "E00705"
+      ]
+    },
+    "docs": [
+      "D008",
+      "D002",
+      "D003",
+      "D004",
+      "D007"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_004",
+    "name_string": "Min Chen",
+    "A1": 0.31,
+    "A2": 0.49,
+    "A_final": 0.41,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 6,
+      "num_distinct_affiliations": 3,
+      "num_distinct_countries": 2,
+      "num_email_domains": 3
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_004",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00602)"
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01001",
+        "E00602",
+        "E00303",
+        "E00904",
+        "E00505",
+        "E00706"
+      ]
+    },
+    "docs": [
+      "D010",
+      "D006",
+      "D003",
+      "D009",
+      "D005",
+      "D007"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_005",
+    "name_string": "Alex Kim",
+    "A1": 0.34,
+    "A2": 0.53,
+    "A_final": 0.44,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 4,
+      "num_distinct_affiliations": 4,
+      "num_distinct_countries": 4,
+      "num_email_domains": 4
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_005",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00203)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E01001",
+        "E00102",
+        "E00203",
+        "E00904"
+      ]
+    },
+    "docs": [
+      "D010",
+      "D001",
+      "D002",
+      "D009"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_006",
+    "name_string": "Maria Garcia",
+    "A1": 0.32,
+    "A2": 0.14,
+    "A_final": 0.22,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 2,
+      "num_distinct_countries": 1,
+      "num_email_domains": 2
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_006",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00802)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E00201",
+        "E00802"
+      ]
+    },
+    "docs": [
+      "D002",
+      "D008"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_007",
+    "name_string": "Omar Hassan",
+    "A1": 0.17,
+    "A2": 0.34,
+    "A_final": 0.26,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 3,
+      "num_distinct_affiliations": 3,
+      "num_distinct_countries": 2,
+      "num_email_domains": 3
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_007",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00102)"
+      ],
+      "uncertainty": "High",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E00901",
+        "E00102",
+        "E00403"
+      ]
+    },
+    "docs": [
+      "D009",
+      "D001",
+      "D004"
+    ]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_008",
+    "name_string": "Priya Patel",
+    "A1": 0.39,
+    "A2": 0.38,
+    "A_final": 0.38,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": [
+      "Typical profile"
+    ],
+    "metrics": {
+      "num_docs": 4,
+      "num_distinct_affiliations": 2,
+      "num_distinct_countries": 3,
+      "num_email_domains": 2
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_008",
+      "summary": "This case was triaged for human review due to atypical patterns relative to the corpus. The system observed the following signals: Typical profile. All statements below are grounded in extracted evidence identifiers.",
+      "key_points": [
+        "- Typical profile (see E00504)"
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": [
+        "E00301",
+        "E00602",
+        "E00403",
+        "E00504"
+      ]
+    },
+    "docs": [
+      "D003",
+      "D006",
+      "D004",
+      "D005"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D010",
+    "page": 1,
+    "affiliation": "XYZ University",
+    "country": "Singapore",
+    "email_domain": "xyzunive.edu",
+    "evidence_id": "E01101",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D002",
+    "page": 1,
+    "affiliation": "Summit Research Center",
+    "country": "UK",
+    "email_domain": "summitre.edu",
+    "evidence_id": "E01102",
+    "field_type": "affiliation",
+    "conf/journal": "acm ccs"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D009",
+    "page": 1,
+    "affiliation": "Lakeside Institute",
+    "country": "Japan",
+    "email_domain": "lakeside.edu",
+    "evidence_id": "E01103",
+    "field_type": "affiliation",
+    "conf/journal": "acm acsac"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D005",
+    "page": 1,
+    "affiliation": "ABC Institute",
+    "country": "Germany",
+    "email_domain": "abcinsti.edu",
+    "evidence_id": "E01104",
+    "field_type": "affiliation",
+    "conf/journal": "ieee sp"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_009",
+    "name_string": "Luke Warm",
+    "doc_id": "D004",
+    "page": 1,
+    "affiliation": "North Valley University",
+    "country": "USA",
+    "email_domain": "northval.edu",
+    "evidence_id": "E01106",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_009",
+    "name_string": "Luke Warm",
+    "doc_id": "D008",
+    "page": 1,
+    "affiliation": "North Valley University",
+    "country": "USA",
+    "email_domain": "northval-lab.org",
+    "evidence_id": "E01107",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_010",
+    "name_string": "Luke Warm",
+    "doc_id": "D006",
+    "page": 1,
+    "affiliation": "Metro Tech",
+    "country": "Canada",
+    "email_domain": "metrotec.edu",
+    "evidence_id": "E01109",
+    "field_type": "affiliation",
+    "conf/journal": "acm ccs"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_010",
+    "name_string": "Luke Warm",
+    "doc_id": "D003",
+    "page": 1,
+    "affiliation": "Metro Tech",
+    "country": "Canada",
+    "email_domain": "metrotec.edu",
+    "evidence_id": "E01110",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  }
+]

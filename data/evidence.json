@@ -1,0 +1,20 @@
+[
+  { "evidence_id": "E01101", "doc_id": "D010", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, XYZ University, Singapore" },
+  { "evidence_id": "E01102", "doc_id": "D002", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Summit Research Center, UK" },
+  { "evidence_id": "E01103", "doc_id": "D009", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Lakeside Institute, Japan" },
+  { "evidence_id": "E01104", "doc_id": "D005", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, ABC Institute, Germany" },
+
+  { "evidence_id": "E01105", "doc_id": "D005", "page": 2, "field_type": "metadata", "snippet": "Multiple distinct affiliation-country-email patterns observed for name string 'Luke Warm' across the corpus." },
+
+  { "evidence_id": "E01106", "doc_id": "D004", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, North Valley University, USA (northval.edu)" },
+  { "evidence_id": "E01107", "doc_id": "D008", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, North Valley University, USA (northval-lab.org)" },
+
+  { "evidence_id": "E01108", "doc_id": "D008", "page": 3, "field_type": "metadata", "snippet": "Metadata outlier: email domain differs across documents for same name string and same institution." },
+
+  { "evidence_id": "E01109", "doc_id": "D006", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Metro Tech, Canada (metrotec.edu)" },
+  { "evidence_id": "E01110", "doc_id": "D003", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Metro Tech, Canada (metrotec.edu)" },
+
+  { "evidence_id": "E00221", "doc_id": "D002", "page": 3, "field_type": "metadata", "snippet": "Funding section contains irregular formatting for NSF acknowledgment." },
+  { "evidence_id": "E00421", "doc_id": "D004", "page": 4, "field_type": "funding", "snippet": "DOE funding acknowledgment detected in non-standard section." },
+  { "evidence_id": "E01021", "doc_id": "D010", "page": 2, "field_type": "funding", "snippet": "NSF grant acknowledgment detected in acknowledgments section." }
+]
