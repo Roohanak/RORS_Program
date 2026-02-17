@@ -1,0 +1,271 @@
+[
+  {
+    "doc_id": "D001",
+    "title": "Quantum Study on Systems",
+    "year": 2025,
+    "A1": 0.21,
+    "A2": 0.18,
+    "A_final": 0.20,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 10, "sections": 9 },
+    "author_countries": ["UK"],
+    "collaboration_type": "NON_US_ONLY",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D001",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20101)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20101"]
+    }
+  },
+  {
+    "doc_id": "D002",
+    "title": "Information Systems Study on Analysis",
+    "year": 2022,
+    "A1": 0.24,
+    "A2": 0.21,
+    "A_final": 0.23,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 8, "sections": 5 },
+    "author_countries": ["India"],
+    "collaboration_type": "NON_US_ONLY",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D002",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20201)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20201"]
+    }
+  },
+  {
+    "doc_id": "D003",
+    "title": "Information Systems Study on Frameworks",
+    "year": 2025,
+    "A1": 0.19,
+    "A2": 0.16,
+    "A_final": 0.18,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 6, "sections": 7 },
+    "author_countries": ["Canada", "Japan"],
+    "collaboration_type": "INTERNATIONAL_WITHOUT_US",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D003",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20301)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20301"]
+    }
+  },
+  {
+    "doc_id": "D004",
+    "title": "Energy Study on Methods",
+    "year": 2022,
+    "A1": 0.63,
+    "A2": 0.58,
+    "A_final": 0.61,
+    "status": "ATTENTION",
+    "top_reason": "US federal funding present but no US author countries detected (review needed)",
+    "signals": ["US funding with non-US author set"],
+    "metrics": { "pages": 10, "sections": 7 },
+    "author_countries": ["China", "Ireland", "UK"],
+    "collaboration_type": "INTERNATIONAL_WITHOUT_US",
+    "funding": {
+      "agencies": ["DOE"],
+      "has_us_federal_funding": true
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D004",
+      "summary": "This case needs attention because a US federal funding agency is listed while the extracted author countries do not include the US. This may be legitimate (subaward, prior affiliation, collaborator, or extraction limits), but warrants a quick review.",
+      "key_points": [
+        "- US federal funding agency detected (see E20410).",
+        "- Author country set does not include US (see E20401, E20402, E20403)."
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20410", "E20401", "E20402", "E20403"]
+    }
+  },
+  {
+    "doc_id": "D005",
+    "title": "Security and Privacy Study on Frameworks",
+    "year": 2022,
+    "A1": 0.22,
+    "A2": 0.26,
+    "A_final": 0.24,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 8, "sections": 9 },
+    "author_countries": ["USA", "Canada"],
+    "collaboration_type": "US_INTERNATIONAL_COLLAB",
+    "funding": {
+      "agencies": ["NSF"],
+      "has_us_federal_funding": true
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D005",
+      "summary": "Typical structure/metadata observed. US funding and author countries include the US, consistent with common patterns.",
+      "key_points": [
+        "- US federal funding agency detected (see E20510).",
+        "- Author countries include US (see E20501, E20502)."
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20510", "E20501", "E20502"]
+    }
+  },
+  {
+    "doc_id": "D006",
+    "title": "Human-Centered Computing Study on Analysis",
+    "year": 2025,
+    "A1": 0.20,
+    "A2": 0.22,
+    "A_final": 0.21,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 10, "sections": 5 },
+    "author_countries": ["USA"],
+    "collaboration_type": "US_ONLY",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D006",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20601)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20601"]
+    }
+  },
+  {
+    "doc_id": "D007",
+    "title": "Mathematics of Computing Study on Systems",
+    "year": 2022,
+    "A1": 0.19,
+    "A2": 0.21,
+    "A_final": 0.20,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 6, "sections": 7 },
+    "author_countries": ["Ireland"],
+    "collaboration_type": "NON_US_ONLY",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D007",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20701)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20701"]
+    }
+  },
+  {
+    "doc_id": "D008",
+    "title": "Quantum Study on Methods",
+    "year": 2022,
+    "A1": 0.28,
+    "A2": 0.25,
+    "A_final": 0.27,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 8, "sections": 7 },
+    "author_countries": ["USA"],
+    "collaboration_type": "US_ONLY",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D008",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20801)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20801"]
+    }
+  },
+  {
+    "doc_id": "D009",
+    "title": "Forensics Study on Frameworks",
+    "year": 2024,
+    "A1": 0.18,
+    "A2": 0.20,
+    "A_final": 0.19,
+    "status": "NORMAL",
+    "top_reason": "Typical structure/metadata",
+    "signals": ["Typical structure/metadata"],
+    "metrics": { "pages": 6, "sections": 9 },
+    "author_countries": ["Japan", "UK"],
+    "collaboration_type": "INTERNATIONAL_WITHOUT_US",
+    "funding": {
+      "agencies": [],
+      "has_us_federal_funding": false
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D009",
+      "summary": "Typical structure/metadata observed.",
+      "key_points": ["- Typical structure/metadata (see E20901)."],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E20901"]
+    }
+  },
+  {
+    "doc_id": "D010",
+    "title": "Quantum Study on Analysis",
+    "year": 2023,
+    "A1": 0.66,
+    "A2": 0.61,
+    "A_final": 0.64,
+    "status": "ATTENTION",
+    "top_reason": "US federal funding present but no US author countries detected (review needed)",
+    "signals": ["US funding with non-US author set"],
+    "metrics": { "pages": 6, "sections": 7 },
+    "author_countries": ["China", "Ireland", "UK"],
+    "collaboration_type": "INTERNATIONAL_WITHOUT_US",
+    "funding": {
+      "agencies": ["NSF"],
+      "has_us_federal_funding": true
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Document case D010",
+      "summary": "This case needs attention because a US federal funding agency is listed while the extracted author countries do not include the US. This may be legitimate but warrants review for completeness and extraction accuracy.",
+      "key_points": [
+        "- US federal funding agency detected (see E21010).",
+        "- Author country set does not include US (see E21001, E21002, E21003)."
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E21010", "E21001", "E21002", "E21003"]
+    }
+  }
+]

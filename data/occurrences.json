@@ -1,0 +1,176 @@
+[
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D009",
+    "page": 1,
+    "affiliation": "Northwell Quantum Security Lab",
+    "country": "China",
+    "email_domain": "northwell-qslab.org",
+    "evidence_id": "E10101",
+    "field_type": "affiliation",
+    "conf/journal": "acm ccs"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D003",
+    "page": 1,
+    "affiliation": "Northwell Quantum Security Lab",
+    "country": "China",
+    "email_domain": "northwell-qslab.org",
+    "evidence_id": "E10102",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_001",
+    "name_string": "Luke Warm",
+    "doc_id": "D010",
+    "page": 1,
+    "affiliation": "Pacific Ridge Research Lab",
+    "country": "USA",
+    "email_domain": "northwell-qslab.org",
+    "evidence_id": "E10103",
+    "field_type": "affiliation",
+    "conf/journal": "ieee sp"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_002",
+    "name_string": "Jane Smith",
+    "doc_id": "D004",
+    "page": 1,
+    "affiliation": "Trinity College Dublin",
+    "country": "Ireland",
+    "email_domain": "tcd.ie",
+    "evidence_id": "E10201",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_002",
+    "name_string": "Jane Smith",
+    "doc_id": "D007",
+    "page": 1,
+    "affiliation": "Trinity College Dublin",
+    "country": "Ireland",
+    "email_domain": "tcd.ie",
+    "evidence_id": "E10202",
+    "field_type": "affiliation",
+    "conf/journal": "acm ccs"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_003",
+    "name_string": "Alex Kim",
+    "doc_id": "D008",
+    "page": 1,
+    "affiliation": "South Valley University",
+    "country": "USA",
+    "email_domain": "southval.edu",
+    "evidence_id": "E10301",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_003",
+    "name_string": "Alex Kim",
+    "doc_id": "D006",
+    "page": 1,
+    "affiliation": "South Valley University",
+    "country": "USA",
+    "email_domain": "southval-lab.org",
+    "evidence_id": "E10302",
+    "field_type": "affiliation",
+    "conf/journal": "ieee sp"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_004",
+    "name_string": "Min Chen",
+    "doc_id": "D004",
+    "page": 1,
+    "affiliation": "Tsinghua University",
+    "country": "China",
+    "email_domain": "tsinghua.edu.cn",
+    "evidence_id": "E10401",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_004",
+    "name_string": "Min Chen",
+    "doc_id": "D010",
+    "page": 1,
+    "affiliation": "Tsinghua University",
+    "country": "China",
+    "email_domain": "tsinghua.edu.cn",
+    "evidence_id": "E10402",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_005",
+    "name_string": "Priya Patel",
+    "doc_id": "D010",
+    "page": 1,
+    "affiliation": "University College Dublin",
+    "country": "Ireland",
+    "email_domain": "ucd.ie",
+    "evidence_id": "E10501",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_005",
+    "name_string": "Priya Patel",
+    "doc_id": "D002",
+    "page": 1,
+    "affiliation": "IIT Delhi",
+    "country": "India",
+    "email_domain": "iitd.ac.in",
+    "evidence_id": "E10502",
+    "field_type": "affiliation",
+    "conf/journal": "acm ccs"
+  },
+
+  {
+    "case_type": "author",
+    "case_id": "AUT_006",
+    "name_string": "Omar Hassan",
+    "doc_id": "D004",
+    "page": 1,
+    "affiliation": "University of Oxford",
+    "country": "UK",
+    "email_domain": "ox.ac.uk",
+    "evidence_id": "E10601",
+    "field_type": "affiliation",
+    "conf/journal": "ndss"
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_006",
+    "name_string": "Omar Hassan",
+    "doc_id": "D001",
+    "page": 1,
+    "affiliation": "University of Oxford",
+    "country": "UK",
+    "email_domain": "ox.ac.uk",
+    "evidence_id": "E10602",
+    "field_type": "affiliation",
+    "conf/journal": "usenix"
+  }
+]

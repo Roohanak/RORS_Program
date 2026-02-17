@@ -1,0 +1,182 @@
+[
+ {
+  "case_type": "author",
+  "case_id": "AUT_001",
+  "name_string": "Luke Warm",
+  "A1": 0.89,
+  "A2": 0.80,
+  "A_final": 0.85,
+  "status": "FLAGGED",
+  "top_reason": "Stable Northwell lab email domain across documents while affiliation and country shift (China ↔ USA) (anomaly candidate)",
+  "signals": [
+    "High cross-country variability",
+    "Affiliation changes across documents",
+    "Stable lab email identity reused across contexts"
+  ],
+  "collaboration_profile": "US_INTERNATIONAL_COLLAB",
+  "metrics": {
+    "num_docs": 3,
+    "num_distinct_affiliations": 2,
+    "num_distinct_countries": 2,
+    "num_email_domains": 1
+  },
+  "report": {
+    "report_title": "Evidence-grounded summary for Author case AUT_001",
+    "summary": "This case was flagged by the anomaly detector because the author’s email domain remains stable (Northwell lab identity) across documents while the affiliation and country shift between China and the United States. This pattern is uncommon relative to the corpus and may reflect cross-border movement, reuse of an original lab identity across institutions, extraction artifacts, or identity ambiguity. This flag indicates a need for human review and does not assert wrongdoing.",
+    "key_points": [
+      "- Stable Northwell lab email domain across documents (see E10101, E10102, E10103).",
+      "- Affiliation and country differ across documents (China vs USA) (see E10101, E10102, E10103)."
+    ],
+    "uncertainty": "High",
+    "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+    "evidence_ids": ["E10101", "E10102", "E10103"]
+  },
+  "docs": ["D009", "D003", "D010"]
+},
+  {
+    "case_type": "author",
+    "case_id": "AUT_002",
+    "name_string": "Jane Smith",
+    "A1": 0.12,
+    "A2": 0.18,
+    "A_final": 0.15,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": ["Typical profile"],
+    "collaboration_profile": "NON_US_ONLY",
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 1
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_002",
+      "summary": "No significant anomalies detected. Author metadata appears consistent across documents.",
+      "key_points": [
+        "- Consistent affiliation/country/email across documents (see E10201, E10202)."
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E10201", "E10202"]
+    },
+    "docs": ["D004", "D007"]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_003",
+    "name_string": "Alex Kim",
+    "A1": 0.71,
+    "A2": 0.62,
+    "A_final": 0.67,
+    "status": "ATTENTION",
+    "top_reason": "Email domain mismatch for same institution across documents (metadata outlier)",
+    "signals": ["Email domain mismatch", "Metadata outlier"],
+    "collaboration_profile": "US_ONLY",
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 2
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_003",
+      "summary": "This case needs attention due to inconsistent email domains for the same institution across documents. This may reflect formatting differences, extraction artifacts, or contact identifier inconsistencies.",
+      "key_points": [
+        "- Same institution but different email domains observed across documents (see E10301, E10302).",
+        "- Metadata note indicates this as a consistency outlier (see E10303)."
+      ],
+      "uncertainty": "Medium",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E10301", "E10302", "E10303"]
+    },
+    "docs": ["D008", "D006"]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_004",
+    "name_string": "Min Chen",
+    "A1": 0.16,
+    "A2": 0.20,
+    "A_final": 0.18,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": ["Typical profile"],
+    "collaboration_profile": "NON_US_ONLY",
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 1
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_004",
+      "summary": "No significant anomalies detected. Author metadata appears consistent across documents.",
+      "key_points": [
+        "- Consistent affiliation/country/email across documents (see E10401, E10402)."
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E10401", "E10402"]
+    },
+    "docs": ["D004", "D010"]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_005",
+    "name_string": "Priya Patel",
+    "A1": 0.14,
+    "A2": 0.17,
+    "A_final": 0.16,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": ["Typical profile"],
+    "collaboration_profile": "INTERNATIONAL_WITHOUT_US",
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 1
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_005",
+      "summary": "No significant anomalies detected. Author metadata appears consistent across documents.",
+      "key_points": [
+        "- Consistent affiliation/country/email across documents (see E10501, E10502)."
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E10501", "E10502"]
+    },
+    "docs": ["D010", "D002"]
+  },
+  {
+    "case_type": "author",
+    "case_id": "AUT_006",
+    "name_string": "Omar Hassan",
+    "A1": 0.13,
+    "A2": 0.19,
+    "A_final": 0.16,
+    "status": "NORMAL",
+    "top_reason": "Typical profile",
+    "signals": ["Typical profile"],
+    "collaboration_profile": "NON_US_ONLY",
+    "metrics": {
+      "num_docs": 2,
+      "num_distinct_affiliations": 1,
+      "num_distinct_countries": 1,
+      "num_email_domains": 1
+    },
+    "report": {
+      "report_title": "Evidence-grounded summary for Author case AUT_006",
+      "summary": "No significant anomalies detected. Author metadata appears consistent across documents.",
+      "key_points": [
+        "- Consistent affiliation/country/email across documents (see E10601, E10602)."
+      ],
+      "uncertainty": "Low",
+      "no_claims_notice": "This report surfaces review cues and does not assert wrongdoing or identity.",
+      "evidence_ids": ["E10601", "E10602"]
+    },
+    "docs": ["D004", "D001"]
+  }
+]
