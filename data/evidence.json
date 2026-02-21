@@ -1,0 +1,42 @@
+[
+  
+  { "evidence_id": "E10101", "doc_id": "D009", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Northwell Quantum Security Lab, China (northwell-qslab.org)" },
+  { "evidence_id": "E10102", "doc_id": "D003", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Northwell Quantum Security Lab, China (northwell-qslab.org)" },
+  { "evidence_id": "E10103", "doc_id": "D005", "page": 1, "field_type": "affiliation", "snippet": "Luke Warm, Pacific Ridge Research Lab, USA (northwell-qslab.org)" },
+
+  { "evidence_id": "E10301", "doc_id": "D008", "page": 1, "field_type": "affiliation", "snippet": "Alex Kim, South Valley University, USA (southval.edu)" },
+  { "evidence_id": "E10302", "doc_id": "D006", "page": 1, "field_type": "affiliation", "snippet": "Alex Kim, South Valley University, USA (southval-lab.org)" },
+  { "evidence_id": "E10303", "doc_id": "D006", "page": 3, "field_type": "metadata", "snippet": "Metadata outlier: email domain differs across documents for the same author and institution." },
+
+  { "evidence_id": "E10401", "doc_id": "D004", "page": 1, "field_type": "affiliation", "snippet": "Min Chen, Tsinghua University, China (tsinghua.edu.cn)" },
+  { "evidence_id": "E10402", "doc_id": "D010", "page": 1, "field_type": "affiliation", "snippet": "Min Chen, Tsinghua University, China (tsinghua.edu.cn)" },
+
+  { "evidence_id": "E10501", "doc_id": "D010", "page": 1, "field_type": "affiliation", "snippet": "Priya Patel, University College Dublin, Ireland (ucd.ie)" },
+  { "evidence_id": "E10502", "doc_id": "D002", "page": 1, "field_type": "affiliation", "snippet": "Priya Patel, IIT Delhi, India (iitd.ac.in)" },
+
+  { "evidence_id": "E10601", "doc_id": "D010", "page": 1, "field_type": "affiliation", "snippet": "Omar Hassan, University of Oxford, UK (ox.ac.uk)" },
+  { "evidence_id": "E10602", "doc_id": "D001", "page": 1, "field_type": "affiliation", "snippet": "Omar Hassan, University of Oxford, UK (ox.ac.uk)" },
+
+  { "evidence_id": "E20101", "doc_id": "D001", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20201", "doc_id": "D002", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20301", "doc_id": "D003", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20601", "doc_id": "D006", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20701", "doc_id": "D007", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20801", "doc_id": "D008", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+  { "evidence_id": "E20901", "doc_id": "D009", "page": 2, "field_type": "metadata", "snippet": "Document structure and metadata appear standard (title/authors/sections present)." },
+
+  { "evidence_id": "E20410", "doc_id": "D004", "page": 4, "field_type": "funding", "snippet": "DOE funding acknowledgment detected in acknowledgments/funding section." },
+  { "evidence_id": "E21010", "doc_id": "D010", "page": 2, "field_type": "funding", "snippet": "NSF grant acknowledgment detected in acknowledgments/funding section." },
+
+  { "evidence_id": "E20401", "doc_id": "D004", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: China present in author list." },
+  { "evidence_id": "E20402", "doc_id": "D004", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: Ireland present in author list." },
+  { "evidence_id": "E20403", "doc_id": "D004", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: UK present in author list." },
+
+  { "evidence_id": "E21001", "doc_id": "D010", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: China present in author list." },
+  { "evidence_id": "E21002", "doc_id": "D010", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: Ireland present in author list." },
+  { "evidence_id": "E21003", "doc_id": "D010", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: UK present in author list." },
+
+  { "evidence_id": "E20510", "doc_id": "D005", "page": 2, "field_type": "funding", "snippet": "NSF grant acknowledgment detected in acknowledgments/funding section." },
+  { "evidence_id": "E20501", "doc_id": "D005", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: USA present in author list." },
+  { "evidence_id": "E20502", "doc_id": "D005", "page": 1, "field_type": "metadata", "snippet": "Extracted author country evidence: Canada present in author list." }
+]
